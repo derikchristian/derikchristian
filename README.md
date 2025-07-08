@@ -1,46 +1,60 @@
-## Hi I'm Derik, 👋
-## Welcome to my Github! 
+# **Welcome to my Github!**
 
----
+<br>
 
 # About Me
+### Hi! My name is Derik, 👋
+<br>
 
-- Data Science Student
+- Data Science Studenthttps://github.com/derikchristian/derikchristian/blob/main/README.md
 - Learning Fullstack Development by building
 - Portifolio: [derikchristian.github.io](https://derikchristian.github.io/) 
-<!--- add curriculum --->
 - Passionate and always learning something new
 
----
+<!--- add curriculum --->
+
+<br>
+
 
 # Contact
 
-Feel free to reach out to me for collaborations, opportunities, sugestions or any questions.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/SDerikCh@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SDerikCh@hotmail.com)
+You can contact me here on GitHub or with: <br>
 
----
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:SDerikCh@hotmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derik-christian-leite-dos-santos-ba89b529b/)
+
+<br>
+
+``Feel free to reach out to me for collaborations, opportunities, sugestions or any questions.``
 
 # Skills
 
-The technologies I work with:
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+The technologies I work with: <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+</p>
 
----
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+</p>
 
-Thank you for checking ou my Github!
+## Thank you for checking ou my Github!
 
 <!--
 **derikchristian/derikchristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
